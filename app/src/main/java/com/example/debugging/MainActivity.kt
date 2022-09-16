@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         Log.i(TAG, "INFO: reporting technical information, such as an operation succeeding")
         Log.d(TAG, "DEBUG: reporting technical information useful for debugging")
         Log.v(TAG, "VERBOSE: more verbose than DEBUG logs")
+        // A bit more to it. Explore when you have time
     }
 }
